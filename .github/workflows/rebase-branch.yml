@@ -1,0 +1,9 @@
+name: 'Rebase to solve simple conflicts'
+on:
+  pull_request:
+jobs:
+  rebase:
+    if: github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: abaicus/rebase@master
