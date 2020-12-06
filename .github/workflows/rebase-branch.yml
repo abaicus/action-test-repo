@@ -1,8 +1,12 @@
 name: 'Rebase to solve simple conflicts'
 on:
-  pull_request:
+  push:
+    branches:
+      - development
 jobs:
   rebase:
     runs-on: ubuntu-latest
     steps:
       - uses: abaicus/rebase@master
+        with:
+          github_token: ${{secrets.GH_TOKEN}}
