@@ -1,7 +1,7 @@
 # action-test-repo
 <h1>Nihil opus est exemplis hoc facere longius.</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <code>Quorum sine causa fieri nihil putandum est.</code> Sed audiamus ipsum: Compensabatur, inquit, tamen cum his omnibus animi laetitia, quam capiebam memoria rationum inventorumque nostrorum. Bonum integritas corporis: misera debilitas. Quod non subducta utilitatis ratione effici solet, sed ipsum a se oritur et sua sponte nascitur. <b>Duo Reges: constructio interrete.</b> </p>
+<p>Lorem ipsum dolor sit amet,sss consectetur adipiscing elit. <code>Quorum sine causa fieri nihil putandum est.</code> Sed audiamus ipsum: Compensabatur, inquit, tamen cum his omnibus animi laetitia, quam capiebam memoria rationum inventorumque nostrorum. Bonum integritas corporis: misera debilitas. Quod non subducta utilitatis ratione effici solet, sed ipsum a se oritur et sua sponte nascitur. <b>Duo Reges: constructio interrete.</b> </p>
 
 <p>Itaque haec cum illis est dissensio, cum Peripateticis nulla sane. Aliter homines, aliter philosophos loqui putas oportere? <i>Quid de Platone aut de Democrito loquar?</i> Longum est enim ad omnia respondere, quae a te dicta sunt. Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers? Etenim nec iustitia nec amicitia esse omnino poterunt, nisi ipsae per se expetuntur. <code>Nunc omni virtuti vitium contrario nomine opponitur.</code> Qui ita affectus, beatum esse numquam probabis; </p>
 
